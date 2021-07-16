@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kulbhusanazad/SampleJava/_apis/build/status/kulbhusanazad.pipelines-java?branchName=master)](https://dev.azure.com/kulbhusanazad/SampleJava/_build/latest?definitionId=11&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
